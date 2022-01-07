@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    background: rgb(177, 14, 14);
+    
+    background-color: aqua;
+}
+
+h3{
+    color: deeppink;
+}
+    
+
+span{
+    
+    font-style: normal;
+    color: rgb(2, 177, 26);
+}
+body{
+    text-align: center;
+}
